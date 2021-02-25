@@ -1,0 +1,90 @@
+	.box{
+			margin: 0;
+			border:1px solid skyblue;
+			padding: 0px;
+			float: left;
+			width: 100%;
+		}
+		.image{
+			float: left;
+		}
+		.content{
+			float: left;
+		}
+		#c1{
+			color: navy;
+			font-family: sans-serif;
+			font-style: bolder;
+			font-size: x-large;
+			margin-left: 100px;
+			margin-top: 100px;
+
+		}
+		#c2{
+			color: grey;
+			font-family: sans-serif;
+			font-style: bold;
+			/*font-size: large;*/
+			margin-left: 100px;
+			margin-top: 10px;
+		}
+		#c3{
+			color: black;
+			font-family: sans-serif;
+			font-style: bolder;
+			font-size: medium;
+			margin-left: 100px;
+			/*margin-top: 100px;*/
+			margin-bottom: 10px;
+
+		}
+		#c4{
+			font-family: sans-serif;
+			font-style: bolder;
+			font-size: large;
+			margin-left: 100px;
+			
+		}
+		.bbox{
+			border: 1.5px solid skyblue;
+			border-radius: 3px;
+			box-shadow: 2px 2px 2px grey;
+			height: 30px;
+			width: 200px;
+			padding-left: 5px;
+			padding-right: 5px;
+		}
+		#c5{
+			font-family: sans-serif;
+			font-style: bolder;
+			font-size: large;
+			margin-left: 150px;
+			margin-top: 20px;
+			
+		}
+		.bbox1{
+			border: 1.5px solid salmon;
+			background-color: salmon;
+			border-radius: 3px;
+			box-shadow: 2px 2px 2px grey;
+			height: 30px;
+			width: 100px;
+			padding-left: 5px;
+			padding-right: 5px;
+		}
+		#c6{
+			font-family: sans-serif;
+			color: grey;
+			font-style: bold;
+			font-size: smaller;
+			margin-left: 100px;
+			margin-top: 20px;
+			}
+		.aclass{
+			color: skyblue;
+		}
+		@media(max-width: 992px){
+		 
+		 
+
+}
